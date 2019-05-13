@@ -1,5 +1,6 @@
-INSERT INTO studenten (voornaam, achternaam, ov_nummer, postcode) VALUES 
-    ('Harry','deKat', 90001, '2182 PN'), 
-    ('Hans','Jonguh', 90002, '666 SD'), 
-    ('Nick','Stijns', 90003, '827 KT'),
-    ('Nik','Sommer', 90004, '123 AB');
+INSERT INTO klassen_studenten (ov_nummer, klas_code) VALUES 
+    ('90001','lo8e-amo1'), 
+    ('90002','lo8e-amo2'), 
+    ('90003','lo8e-amo3'),
+    ('90004','lo8e-amo4');
+    
