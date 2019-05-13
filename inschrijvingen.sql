@@ -1,4 +1,5 @@
-INSERT INTO klassen (klas_code, slb_code, cohort, opleiding_code) VALUES 
-    ('lo9e-amo1','akr02', 2019, 'amo'), 
-    ('lo9e-amo2','brc01', 2019, 'amo'), 
-    ('lo9e-amo3','bkr02', 2019, 'amo');
+INSERT INTO studenten (voornaam, achternaam, ov_nummer, postcode) VALUES 
+    ('Harry','deKat', 90001, '2182 PN'), 
+    ('Hans','Jonguh', 90002, '666 SD'), 
+    ('Nick','Stijns', 90003, '827 KT'),
+    ('Nik','Sommer', 90004, '123 AB');
